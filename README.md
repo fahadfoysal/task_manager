@@ -37,7 +37,7 @@ Download and install ptyhon from their website
 -   Clone the repository
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/fahadfoysal/task_manager
 ```
 
 -   Go to the project directory
